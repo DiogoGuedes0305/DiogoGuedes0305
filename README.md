@@ -8,7 +8,7 @@ In search of opportunities to apply my enthusiasm and expertise in Low Code deve
 
 * 🌍  I'm based in Portugal, Porto
 * ✉️  You can contact me at [josediogoguedes@gmail.com](mailto:josediogoguedes@gmail.com)
-* 🚀  I'm currently working on [Explorador](https://github.com/DiogoGuedes0305/Explorador)
+* 🚀  I'm currently working on Gestiprod
 * 🧠  I'm learning Java Script
 * 🪄  I love Magic
 * 👀  You can check out my [Magical Website](http://reideespadas.pt)
