@@ -8,8 +8,8 @@ In search of opportunities to apply my enthusiasm and expertise in Low Code deve
 
 * 🌍  I'm based in Portugal, Porto
 * ✉️  You can contact me at [josediogoguedes@gmail.com](mailto:josediogoguedes@gmail.com)
-* 🚀  I'm currently working on Gestiprod
-* 🧠  I'm learning Java Script
+* 🚀  I'm currently working at Deloitte
+* 🧠  I'm learning Outsystems and Claude code automations
 * 🪄  I love Magic
 * 👀  You can check out my [Magical Website](http://reideespadas.pt)
 
