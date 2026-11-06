@@ -12,6 +12,23 @@ In search of opportunities to apply my enthusiasm and expertise in Low Code deve
 * 🧠  I'm learning Outsystems and Claude code automations
 * 🪄  I love Magic
 
+### Projects
+
+**Play in the browser** (no install needed):
+
+| Project | What it is | Open |
+|---|---|---|
+| [Explorador](https://github.com/DiogoGuedes0305/Explorador) | 3D game (Three.js): walk a character through the floors of four buildings using elevators and portals | [▶️ Play](https://diogoguedes0305.github.io/Explorador/) |
+| [jogo-monte-gordo](https://github.com/DiogoGuedes0305/jogo-monte-gordo) | Team street game in Monte Gordo: conquer territories with photo/video challenges, attack and advantage cards (Firebase + Cloudinary) | [▶️ Play](https://diogoguedes0305.github.io/jogo-monte-gordo/) |
+| [o-testamento](https://github.com/DiogoGuedes0305/o-testamento) | Murder mystery dinner game, each player on their phone: secret encrypted character sheets, evidence rounds, detective notebook, voting | [▶️ Play](https://diogoguedes0305.github.io/o-testamento/) |
+| [Reideespadas-Site](https://github.com/DiogoGuedes0305/Reideespadas-Site) | My magic website | [🌐 reideespadas.pt](https://reideespadas.pt/) |
+
+**Other projects**
+
+- [JS_Games](https://github.com/DiogoGuedes0305/JS_Games): small JavaScript games (Breakout, Connect Four, Memory, Rock-Paper-Scissors, Whack-a-Mole)
+- [lista-compras](https://github.com/DiogoGuedes0305/lista-compras): shopping list web app (PWA)
+- University projects (ISEP, 2023): [LAPR3](https://github.com/DiogoGuedes0305/LAPR3), [LAPR4](https://github.com/DiogoGuedes0305/LAPR4), [LAPR5](https://github.com/DiogoGuedes0305/LAPR5), [Graphic-Systems](https://github.com/DiogoGuedes0305/Graphic-Systems), [Computer-Network](https://github.com/DiogoGuedes0305/Computer-Network), [Data-Base](https://github.com/DiogoGuedes0305/Data-Base)
+
 ### Skills
 
 <p align="left">
