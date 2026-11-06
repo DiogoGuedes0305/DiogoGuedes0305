@@ -11,7 +11,6 @@ In search of opportunities to apply my enthusiasm and expertise in Low Code deve
 * 🚀  I'm currently working at Deloitte
 * 🧠  I'm learning Outsystems and Claude code automations
 * 🪄  I love Magic
-* 👀  You can check out my [Magical Website](http://reideespadas.pt)
 
 ### Skills
 
