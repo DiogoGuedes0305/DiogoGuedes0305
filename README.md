@@ -21,6 +21,7 @@ In search of opportunities to apply my enthusiasm and expertise in Low Code deve
 | [Explorador](https://github.com/DiogoGuedes0305/Explorador) | 3D game (Three.js): walk a character through the floors of four buildings using elevators and portals | [▶️ Play](https://diogoguedes0305.github.io/Explorador/) |
 | [jogo-monte-gordo](https://github.com/DiogoGuedes0305/jogo-monte-gordo) | Team street game in Monte Gordo: conquer territories with photo/video challenges, attack and advantage cards (Firebase + Cloudinary) | [▶️ Play](https://diogoguedes0305.github.io/jogo-monte-gordo/) |
 | [o-testamento](https://github.com/DiogoGuedes0305/o-testamento) | Murder mystery dinner game, each player on their phone: secret encrypted character sheets, evidence rounds, detective notebook, voting | [▶️ Play](https://diogoguedes0305.github.io/o-testamento/) |
+| [amigo-secreto](https://github.com/DiogoGuedes0305/amigo-secreto) | Family Secret Santa app: animated draw on every phone, wish lists, countdown and memories by year (demo with fictional data) | [▶️ Play](https://diogoguedes0305.github.io/amigo-secreto/) |
 | [Reideespadas-Site](https://github.com/DiogoGuedes0305/Reideespadas-Site) | My magic website | [🌐 reideespadas.pt](https://reideespadas.pt/) |
 
 **Other projects**
